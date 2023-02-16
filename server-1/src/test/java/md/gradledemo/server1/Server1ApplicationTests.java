@@ -1,10 +1,10 @@
-package md.gradledemo;
+package md.gradledemo.server1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GradleDemoApplicationTests
+class Server1ApplicationTests
 {
     @Test
     void contextLoads()
